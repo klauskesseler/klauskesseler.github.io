@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 672" width="100%" style="max-width:100%;height:auto" role="img" aria-label="Line chart with a widening gap. The closed frontier rises faster than open weights, because the measured lag grew from three months in October 2025 to four by May 2026. Claude Opus 5.5 ships October 2026; open weights reach that level between March and June 2027. A 320B-class model fits one eight-GPU node, about 370 thousand dollars of GPU; the largest open model needs five nodes, about 1.85 million, and scored no better on the one index version where they can be compared.">
+<rect width="1180" height="672" fill="#FFFFFF"/>
+<text x="96" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1A1A1A">When do open weights reach today&#8217;s frontier — and which one would you run?</text>
+<text x="96" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A5A5A">The lag is <tspan font-style="italic">widening</tspan>: Epoch measured 3 months in Oct 2025 and 4 by May 2026, so the lines fan apart rather than running parallel.</text>
+<text x="96" y="82" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A5A5A">Horizontal distance is the measured quantity. The vertical scale is schematic — this answers <tspan font-style="italic">when</tspan>, not how much.</text>
+<text x="96" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A5A5A">The shaded band spans general capability to the harder domains Epoch breaks out separately.</text>
+<line x1="96" y1="128" x2="96" y2="546" stroke="#E8E8E8" stroke-width="1"/>
+<text x="96" y="568" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A" text-anchor="middle">Jan 2025</text>
+<line x1="272" y1="128" x2="272" y2="546" stroke="#E8E8E8" stroke-width="1"/>
+<text x="272" y="568" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A" text-anchor="middle">Jul 2025</text>
+<line x1="448" y1="128" x2="448" y2="546" stroke="#E8E8E8" stroke-width="1"/>
+<text x="448" y="568" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A" text-anchor="middle">Jan 2026</text>
+<line x1="624" y1="128" x2="624" y2="546" stroke="#E8E8E8" stroke-width="1"/>
+<text x="624" y="568" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A" text-anchor="middle">Jul 2026</text>
+<line x1="800" y1="128" x2="800" y2="546" stroke="#E8E8E8" stroke-width="1"/>
+<text x="800" y="568" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A" text-anchor="middle">Jan 2027</text>
+<line x1="975" y1="128" x2="975" y2="546" stroke="#E8E8E8" stroke-width="1"/>
+<text x="975" y="568" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A" text-anchor="middle">Jul 2027</text>
+<line x1="96" y1="546" x2="1122" y2="546" stroke="#C8C8C8" stroke-width="1"/>
+<text x="82" y="138" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A" text-anchor="end">capability &#8593;</text>
+<polygon points="213,504 228,500 243,496 257,492 272,488 287,484 301,480 316,476 331,472 345,467 360,463 374,459 389,455 404,451 418,447 433,443 448,439 462,435 477,431 492,427 506,423 521,419 536,415 550,411 565,407 580,403 594,399 609,395 624,391 638,387 653,383 668,379 682,375 697,370 712,366 726,362 741,358 756,354 770,350 785,346 800,342 814,338 829,334 844,330 858,326 873,322 887,318 902,314 917,310 931,306 946,302 961,298 975,294 990,290 1005,286 1019,282 1034,278 1049,274 1063,269 1078,265 1093,261 1107,257 1122,253 1122,275 1107,279 1093,283 1078,287 1063,291 1049,295 1034,299 1019,303 1005,307 990,311 975,315 961,319 946,323 931,327 917,331 902,335 887,340 873,344 858,348 844,352 829,356 814,360 800,364 785,368 770,372 756,376 741,380 726,384 712,388 697,392 682,396 668,400 653,404 638,408 624,412 609,416 594,420 580,424 565,428 550,432 536,436 521,441 506,445 492,449 477,453 462,457 448,461 433,465 418,469 404,473 389,477 374,481 360,485 345,489 331,493 316,497 301,501" fill="#FBD9EA"/>
+<polyline points="96,520 125,511 155,501 184,492 213,482 243,473 272,463 301,454 331,445 360,435 389,426 418,416 448,407 477,397 506,388 536,379 565,369 594,360 624,350 653,341 682,331 712,322 741,313 770,303 800,294 829,284 858,275 887,265 917,256 946,247 975,237 1005,228 1034,218 1063,209 1093,199 1122,190" fill="none" stroke="#0B6FBF" stroke-width="3"/>
+<polyline points="301,501 316,497 331,493 345,489 360,485 374,481 389,477 404,473 418,469 433,465 448,461 462,457 477,453 492,449 506,445 521,441 536,436 550,432 565,428 580,424 594,420 609,416 624,412 638,408 653,404 668,400 682,396 697,392 712,388 726,384 741,380 756,376 770,372 785,368 800,364 814,360 829,356 844,352 858,348 873,344 887,340 902,335 917,331 931,327 946,323 961,319 975,315 990,311 1005,307 1019,303 1034,299 1049,295 1063,291 1078,287 1093,283 1107,279 1122,275" fill="none" stroke="#E6007C" stroke-width="2" stroke-dasharray="7 5"/>
+<polyline points="213,504 228,500 243,496 257,492 272,488 287,484 301,480 316,476 331,472 345,467 360,463 374,459 389,455 404,451 418,447 433,443 448,439 462,435 477,431 492,427 506,423 521,419 536,415 550,411 565,407 580,403 594,399 609,395 624,391 638,387 653,383 668,379 682,375 697,370 712,366 726,362 741,358 756,354 770,350 785,346 800,342 814,338 829,334 844,330 858,326 873,322 887,318 902,314 917,310 931,306 946,302 961,298 975,294 990,290 1005,286 1019,282 1034,278 1049,274 1063,269 1078,265 1093,261 1107,257 1122,253" fill="none" stroke="#E6007C" stroke-width="3"/>
+<text x="1100" y="180" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0B6FBF" text-anchor="end">closed frontier</text>
+<text x="1100" y="248" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#E6007C" text-anchor="end">open weights</text>
+<line x1="712" y1="322" x2="952" y2="322" stroke="#1A1A1A" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle cx="712" cy="322" r="7" fill="#0B6FBF" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="873" cy="322" r="7" fill="#E6007C" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="952" cy="322" r="7" fill="#E6007C" stroke="#FFFFFF" stroke-width="2"/>
+<text x="694" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A" text-anchor="end">Claude Opus 5.5</text>
+<text x="694" y="316" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A" text-anchor="end">Oct 2026</text>
+<text x="911" y="296" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#E6007C" text-anchor="middle">Mar – Jun 2027</text>
+<line x1="741" y1="128" x2="741" y2="546" stroke="#5A5A5A" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="741" y="102" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">today</text>
+<text x="741" y="118" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A" text-anchor="middle">Nov 2026</text>
+<rect x="116" y="152" width="560" height="104" fill="#F7F7F7"/>
+<rect x="116" y="152" width="5" height="104" fill="#E6007C"/>
+<text x="136" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Which open model sits on that line</text>
+<circle cx="143" cy="196" r="5" fill="#E6007C"/>
+<text x="158" y="201" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#1A1A1A"><tspan font-weight="700">320B class — 1 node per replica.</tspan> About $370k of GPU.</text>
+<circle cx="143" cy="220" r="5" fill="none" stroke="#E6007C" stroke-width="2"/>
+<text x="158" y="225" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#1A1A1A">Largest open model — ~2.8T class, 5 nodes per replica. <tspan font-weight="700">About $1.85M.</tspan></text>
+<text x="136" y="246" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A">One line, not two: on the only index version where they compare, the 320B scored <tspan font-weight="700">above</tspan> the 2.4T and 1.6T models.</text>
+<rect x="96" y="594" width="6" height="50" fill="#E6007C"/>
+<text x="114" y="618" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">Even with the gap widening, open weights reach today&#8217;s frontier around the middle of 2027.</text>
+<text x="114" y="638" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A5A5A">Lag modelled at its measured rate of growth — +1 month of lag per 7 months elapsed. If it accelerates beyond that, the date slips.</text>
+</svg>
