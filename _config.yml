@@ -12,4 +12,7 @@ header_pages:
   - about.md
 
 show_excerpts: true
+
+# Set to true once impressum.md and privacy.md are completed and their "published: false" lines removed
+legal_pages: false
 permalink: /:year/:title/
