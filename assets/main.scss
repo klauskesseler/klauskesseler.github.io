@@ -2,16 +2,16 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-// Link colour: deep red from the KK logo (5.9:1 contrast on white)
-$brand-color: #C8102E;
+// Link colour: brick from the KK logo (7.0:1 contrast on white)
+$brand-color: #A8281E;
 
 @import "minima";
 
-$kk-orange: #F0901E;
-$kk-red: #C8102E;
-$kk-gradient: linear-gradient(90deg, $kk-orange, $kk-red);
+$kk-brick: #A8281E;
+$kk-burnt: #D2601A;
+$kk-gradient: linear-gradient(90deg, $kk-brick, $kk-burnt);
 
-// 1. Orange-to-red bar along the top of every page (replaces minima's dark line)
+// 1. Brick-to-burnt-orange bar along the top of every page (replaces minima's dark line)
 .site-header {
   border-top: 5px solid transparent;
 }
@@ -38,9 +38,9 @@ $kk-gradient: linear-gradient(90deg, $kk-orange, $kk-red);
   width: auto;
 }
 
-// 3. Links turn a deeper orange on hover (5.2:1 contrast on white)
+// 3. Links turn a darker burnt orange on hover (5.0:1 contrast on white)
 a:hover {
-  color: #C2410C;
+  color: #B4520F;
 }
 
 // 4. Short gradient accent under section headings
