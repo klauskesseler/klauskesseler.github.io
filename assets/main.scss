@@ -1,0 +1,56 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Link colour: deep red from the KK logo (5.9:1 contrast on white)
+$brand-color: #C8102E;
+
+@import "minima";
+
+$kk-orange: #F0901E;
+$kk-red: #C8102E;
+$kk-gradient: linear-gradient(90deg, $kk-orange, $kk-red);
+
+// 1. Orange-to-red bar along the top of every page (replaces minima's dark line)
+.site-header {
+  border-top: 5px solid transparent;
+}
+
+.site-header::before {
+  content: "";
+  position: absolute;
+  top: -5px;
+  left: 0;
+  right: 0;
+  height: 5px;
+  background: $kk-gradient;
+}
+
+// 2. KK mark before the name in the header
+.site-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.site-title img {
+  height: 26px;
+  width: auto;
+}
+
+// 3. Links turn a deeper orange on hover (5.2:1 contrast on white)
+a:hover {
+  color: #C2410C;
+}
+
+// 4. Short gradient accent under section headings
+.post-content h2::after,
+.post-list-heading::after {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 3px;
+  margin-top: 6px;
+  border-radius: 2px;
+  background: $kk-gradient;
+}
