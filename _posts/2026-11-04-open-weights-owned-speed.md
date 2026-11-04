@@ -3,6 +3,7 @@ layout: post
 title: "Open weights, and the speed you own"
 date: 2026-11-04 00:00:00 +0100
 image: /images/same-fire-two-hydrants.jpg
+excerpt: "Imagine running your Opus 5.5 skills locally. Five times faster, on hardware you already idle 70% of the week."
 ---
 
 ![Cartoon, "Same fire. Two hydrants." At 2 am a building labelled "Tonight's backlog" is on fire. On the left, a blue hydrant labelled "Frontier API, 50–100 tok/s, metered" feeds several trucks and firefighters whose thin streams barely reach the fire; one says "Still rate-limited…". On the right, a magenta hydrant labelled "H200 node, ~400 tok/s, yours, at 2 am" feeds one ladder truck whose firefighter hits the fire with a huge stream and says "Open weights unlocked!"](/images/same-fire-two-hydrants.jpg)
