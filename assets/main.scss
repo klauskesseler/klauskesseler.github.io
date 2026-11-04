@@ -72,6 +72,26 @@ a:hover {
   border: 3px solid #fff;
 }
 
+// 6. Slim footer: tagline left, LinkedIn right (the name is already in the header)
+.footer-simple {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0 30px;
+  margin-left: 0;
+}
+
+.footer-simple .footer-col {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+
+.footer-simple p {
+  margin-bottom: 6px;
+}
+
 @media (max-width: 600px) {
   .portrait {
     float: none;
