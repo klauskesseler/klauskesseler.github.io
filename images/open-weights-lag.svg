@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 672" width="100%" style="max-width:100%;height:auto" role="img" aria-label="Line chart with a widening gap. The closed frontier rises faster than open weights, because the measured lag grew from three months in October 2025 to four by May 2026. Claude Opus 5.5 ships October 2026; open weights reach that level between March and June 2027. A 320B-class model fits one eight-GPU node, about 370 thousand dollars of GPU; the largest open model needs five nodes, about 1.85 million, and scored no better on the one index version where they can be compared.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 672" width="100%" style="max-width:100%;height:auto" role="img" aria-label="Line chart with a widening gap. The closed frontier rises faster than open weights, because the measured lag grew from three months in October 2025 to four by May 2026. Claude Opus 5.5 and GPT-6 Astra mark the frontier in September 2026; if the lag keeps growing at its measured rate, open weights reach that level between February and May 2027. GLM-5.3-Flash (320B) fits one eight-GPU node, about 370 thousand dollars of GPU; Qwen3.8 2.4T and DeepSeek V4 Pro 1.6T need two to three nodes and scored lower on Artificial Analysis v4.3.">
 <rect width="1180" height="672" fill="#FFFFFF"/>
 <text x="96" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1A1A1A">When do open weights reach today&#8217;s frontier — and which one would you run?</text>
-<text x="96" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A5A5A">The lag is <tspan font-style="italic">widening</tspan>: Epoch measured 3 months in Oct 2025 and 4 by May 2026, so the lines fan apart rather than running parallel.</text>
+<text x="96" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A5A5A">Epoch measured the lag at 3 months in Oct 2025 and 4 by May 2026. The chart assumes it keeps growing, so the lines fan apart.</text>
 <text x="96" y="82" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A5A5A">Horizontal distance is the measured quantity. The vertical scale is schematic — this answers <tspan font-style="italic">when</tspan>, not how much.</text>
 <text x="96" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A5A5A">The shaded band spans general capability to the harder domains Epoch breaks out separately.</text>
 <line x1="96" y1="128" x2="96" y2="546" stroke="#E8E8E8" stroke-width="1"/>
@@ -25,13 +25,13 @@
 <polyline points="213,504 228,500 243,496 257,492 272,488 287,484 301,480 316,476 331,472 345,467 360,463 374,459 389,455 404,451 418,447 433,443 448,439 462,435 477,431 492,427 506,423 521,419 536,415 550,411 565,407 580,403 594,399 609,395 624,391 638,387 653,383 668,379 682,375 697,370 712,366 726,362 741,358 756,354 770,350 785,346 800,342 814,338 829,334 844,330 858,326 873,322 887,318 902,314 917,310 931,306 946,302 961,298 975,294 990,290 1005,286 1019,282 1034,278 1049,274 1063,269 1078,265 1093,261 1107,257 1122,253" fill="none" stroke="#E6007C" stroke-width="3"/>
 <text x="1100" y="180" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0B6FBF" text-anchor="end">closed frontier</text>
 <text x="1100" y="248" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#E6007C" text-anchor="end">open weights</text>
-<line x1="712" y1="322" x2="952" y2="322" stroke="#1A1A1A" stroke-width="1.5" stroke-dasharray="3 4"/>
-<circle cx="712" cy="322" r="7" fill="#0B6FBF" stroke="#FFFFFF" stroke-width="2"/>
-<circle cx="873" cy="322" r="7" fill="#E6007C" stroke="#FFFFFF" stroke-width="2"/>
-<circle cx="952" cy="322" r="7" fill="#E6007C" stroke="#FFFFFF" stroke-width="2"/>
-<text x="694" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A" text-anchor="end">Claude Opus 5.5</text>
-<text x="694" y="316" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A" text-anchor="end">Oct 2026</text>
-<text x="911" y="296" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#E6007C" text-anchor="middle">Mar – Jun 2027</text>
+<line x1="682" y1="331" x2="917" y2="331" stroke="#1A1A1A" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle cx="682" cy="331" r="7" fill="#0B6FBF" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="840" cy="331" r="7" fill="#E6007C" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="917" cy="331" r="7" fill="#E6007C" stroke="#FFFFFF" stroke-width="2"/>
+<text x="664" y="309" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A" text-anchor="end">Claude Opus 5.5 · GPT-6 Astra</text>
+<text x="664" y="325" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A" text-anchor="end">Sep 2026</text>
+<text x="878" y="305" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#E6007C" text-anchor="middle">Feb – May 2027</text>
 <line x1="741" y1="128" x2="741" y2="546" stroke="#5A5A5A" stroke-width="1" stroke-dasharray="4 4"/>
 <text x="741" y="102" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">today</text>
 <text x="741" y="118" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A" text-anchor="middle">Nov 2026</text>
@@ -39,11 +39,11 @@
 <rect x="116" y="152" width="5" height="104" fill="#E6007C"/>
 <text x="136" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Which open model sits on that line</text>
 <circle cx="143" cy="196" r="5" fill="#E6007C"/>
-<text x="158" y="201" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#1A1A1A"><tspan font-weight="700">320B class — 1 node per replica.</tspan> About $370k of GPU.</text>
+<text x="158" y="201" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#1A1A1A"><tspan font-weight="700">GLM-5.3-Flash, 320B — 1 node per replica.</tspan> About $370k of GPU.</text>
 <circle cx="143" cy="220" r="5" fill="none" stroke="#E6007C" stroke-width="2"/>
-<text x="158" y="225" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#1A1A1A">Largest open model — ~2.8T class, 5 nodes per replica. <tspan font-weight="700">About $1.85M.</tspan></text>
-<text x="136" y="246" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A">One line, not two: on the only index version where they compare, the 320B scored <tspan font-weight="700">above</tspan> the 2.4T and 1.6T models.</text>
+<text x="158" y="225" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#1A1A1A">Qwen3.8 2.4T, DeepSeek V4 Pro 1.6T — 2–3 nodes each. <tspan font-weight="700">$0.7–1.1M.</tspan></text>
+<text x="136" y="246" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A5A5A">Artificial Analysis v4.3: GLM-5.3-Flash <tspan font-weight="700">42</tspan>, Qwen3.8 2.4T 40, DeepSeek V4 Pro 36.</text>
 <rect x="96" y="594" width="6" height="50" fill="#E6007C"/>
-<text x="114" y="618" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">Even with the gap widening, open weights reach today&#8217;s frontier around the middle of 2027.</text>
-<text x="114" y="638" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A5A5A">Lag modelled at its measured rate of growth — +1 month of lag per 7 months elapsed. If it accelerates beyond that, the date slips.</text>
+<text x="114" y="618" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">If the lag keeps growing at its measured rate, open weights reach today&#8217;s frontier in the first half of 2027.</text>
+<text x="114" y="638" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A5A5A">Two Epoch measurements, extrapolated at +1 month of lag per 7 months elapsed. If the lag grows faster, the date slips.</text>
 </svg>
