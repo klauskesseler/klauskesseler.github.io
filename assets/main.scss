@@ -54,3 +54,29 @@ a:hover {
   border-radius: 2px;
   background: $kk-gradient;
 }
+
+// 5. Round portrait on the About page, with a thin brand-gradient ring
+.portrait {
+  float: right;
+  margin: 4px 0 16px 28px;
+  padding: 3px;
+  border-radius: 50%;
+  background: $kk-gradient;
+}
+
+.portrait img {
+  display: block;
+  width: 172px;
+  height: 172px;
+  border-radius: 50%;
+  border: 3px solid #fff;
+}
+
+@media (max-width: 600px) {
+  .portrait {
+    float: none;
+    display: block;
+    width: fit-content;
+    margin: 0 auto 20px;
+  }
+}

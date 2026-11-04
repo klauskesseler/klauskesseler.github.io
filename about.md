@@ -2,7 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+image: /images/klaus-kesseler.jpg
 ---
+
+<div class="portrait"><img src="/images/klaus-kesseler.jpg" alt="Klaus Kesseler" width="172" height="172"></div>
 
 I'm Klaus Kesseler, a software architect and engineering leader based near Düsseldorf.
 
