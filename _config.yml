@@ -5,7 +5,7 @@ url: "https://klauskesseler.github.io"
 theme: minima
 timezone: Europe/Berlin
 
-# linkedin_username: add your LinkedIn handle here
+linkedin_username: klauskesseler
 
 header_pages:
   - about.md
