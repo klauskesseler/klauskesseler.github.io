@@ -23,6 +23,6 @@ Notes on what survived production. Each post makes one claim, shows the arithmet
 
 ## Get in touch
 
-If you're trying to get agents past the pilot stage in a large organisation, I'd like to hear how you're approaching it. [LinkedIn](https://www.linkedin.com/in/klauskesseler/) is the best way to reach me.
+Each post is also shared on [LinkedIn](https://www.linkedin.com/in/klauskesseler/), which is the best place to comment, correct me or reach me.
 
 I studied computer science at RWTH Aachen, focusing on computer graphics and artificial intelligence. Everything here is my own view and does not represent any employer.
